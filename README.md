@@ -6,3 +6,6 @@ This module fixes the speakerphone echo introduced in the 7.1.1 Nougat update by
 
 ## Changes
 v1 - Initial release
+
+
+#### Thread: https://forum.xda-developers.com/nexus-6/themes-apps/mod-speakerphone-echo-fix-nexus-6-t3537776
